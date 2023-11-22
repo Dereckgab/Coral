@@ -1,0 +1,28 @@
+body {
+    background-color: #f8f9fa; /* Light gray background */
+    color: #495057; /* Dark text color */
+    font-family: 'Arial', sans-serif; /* Professional font */
+  }
+  .navbar {
+    background-color: #343a40; /* Dark gray for the navbar */
+  }
+  .carousel-item {
+    background-color: #343a40; /* Dark gray for carousel items */
+    color: #fff; /* White text color on carousel items */
+  }
+  section {
+    padding: 80px 0; /* Increased padding for sections */
+  }
+  .recipe-section {
+    background-color: #343a40; /* Dark gray for recipe section */
+    color: #fff;
+  }
+  footer {
+    background-color: #1e2125; /* Darker gray for the footer */
+    color: #fff;
+    padding: 30px 0;
+  }
+  .comments-section {
+    background-color: #e9ecef; /* Light gray for comments section */
+    padding: 60px 0;
+  }
